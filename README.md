@@ -24,13 +24,38 @@ About 9,400 events from 5,000 users, covering what action the user took (page vi
 - Customer journey timing (time taken between funnel stages)
 
 ## Key Findings
-- Email converts best (~34% page view to purchase) despite the lowest traffic volume.
-- Social has the weakest top-of-funnel conversion (~13.6% view-to-cart), suggesting a mismatch between social ad creative and actual product pages, not a checkout problem.
-- Once a user adds to cart, conversion stays high (70-94%) across all traffic sources. The funnel's biggest leak is at the very first step, not checkout or payment.
-- Organic traffic drives the most total revenue (~42%) through volume, even though it doesn't have the highest per-user conversion rate.
-- All 6 products convert within a tight 15.5-17.8% range, performance is driven by traffic source, not product.
-- Users take the longest to decide whether to add a product to cart (~11.2 minutes on average), more than double the time spent on any later step (5.4 min to checkout, 5.1 min to payment, 3.0 min to purchase). Once a user commits past that point, they move through the rest of the funnel quickly and decisively. This means the page view-to-cart stage is the main friction point in the journey both in terms of who drops off and how long the ones who don't take to decide.
-- Total revenue: $87,975.11 across 826 purchases.
+- Email brings in the smallest number of visitors but converts the best, about 34% of email visitors end up buying, more than four times social's rate.
+- Social is weakest right at the start, only about 13.6% of social visitors even add something to their cart. This points to the social ads not matching what's actually on the product pages, rather than a problem at checkout.
+- Once someone adds a product to cart, they're very likely to follow through (70-94% conversion at every step after that), no matter where they came from. The real problem is getting people to add to cart in the first place.
+- Organic traffic brings in the most total revenue (about 42%), mainly because of how many people use it, not because each person spends more.
+- All 6 products perform about the same, converting between 15.5% and 17.8%. The product itself isn't the deciding factor, where the traffic comes from is.
+- Users take the longest to decide whether to add a product to cart (about 11 minutes on average), more than double the time spent on any step after that. Once someone commits to buying, they move fast. This shows that the "add to cart" decision is the biggest sticking point, both in how many people drop off and how long the ones who don't take to decide.
+- Total revenue: $87,975.11 from 826 purchases.
+
+## Business Recommendations
+- Spend more on email marketing. It turns visitors into paying customers more often than any other channel.
+- Find out why people coming from social media leave so fast. The social media ads might be promising something different from what's actually shown on the product page.
+- Put most of the effort into getting people to add a product to their cart, since that's the point where the most people are lost, no matter where they came from.
+- Keep growing organic traffic (people finding the site through search engines), since it already brings in the most money and doesn't cost extra for ads.
+- Don't worry too much about which specific product is being shown, since all 6 products perform about the same. The bigger win is in improving how people arrive at the site, not changing the products themselves.
+- People take a long time deciding whether to add something to cart, but once they do, they move fast through checkout and payment. So it makes more sense to improve the product page (clearer info, better photos, convincing details) than to add discounts at checkout, since checkout already works well on its own.
+- Check this funnel regularly. If something starts going wrong, it's much easier to fix early than after it's been losing customers for months.
+
+## Visuals
+
+### Traffic Source Analysis
+![Traffic Source Pivot Table](Images/Traffic%20Pivot%20Table.png)
+![Traffic Source User Analysis](Images/Traffic%20Source%20User%20Analysis.png)
+![Traffic Source Revenue Analysis](Images/Traffic%20Source%20RevenueAnalysis.png)
+![Contribution to Revenue by Traffic Source](Images/Contribution%20To%20Revenue%20Traffic%20Source%20Wise.png)
+![Contribution to Purchases by Traffic Source](Images/Contribution%20To%20Purchase%20Traffic%20Source%20Wise.png)
+
+### Product Analysis
+![Product Pivot Table](Images/Product%20Pivot%20Table%20.png)
+![Product Wise User Analysis](Images/Product%20Wise%20User%20Analysis.png)
+![Product Wise Revenue Analysis](Images/Product%20Wise%20Revenue%20Analysis.png)
+![Contribution to Revenue by Product](Images/Contribution%20To%20Revenue%20Product%20Wise.png)
+![Contribution to Purchases by Product](Images/Contribution%20To%20Purchase%20Product%20Wise.png)
 
 ## How to Use
 1. Open User_Events_Analysis.xlsx to review the Pivot Tables and pre-built conversion/revenue breakdowns.
