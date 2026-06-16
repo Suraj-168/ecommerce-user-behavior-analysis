@@ -24,6 +24,7 @@ A sample dataset of ~9,400 events across 5,000 users, covering event type (page_
 - Once a user adds to cart, conversion stays high (70-94%) across all traffic sources. The funnel's biggest leak is at the very first step, not checkout or payment.
 - Organic traffic drives the most total revenue (~42%) through volume, even though it doesn't have the highest per-user conversion rate.
 - All 6 products convert within a tight 15.5-17.8% range, performance is driven by traffic source, not product.
+- Users take the longest to decide whether to add a product to cart (~11.2 minutes on average), more than double the time spent on any later step (5.4 min to checkout, 5.1 min to payment, 3.0 min to purchase). Once a user commits past that point, they move through the rest of the funnel quickly and decisively. This means the page view-to-cart stage is the main friction point in the journey both in terms of who drops off and how long the ones who don't take to decide.
 - Total revenue: $87,975.11 across 826 purchases.
 
 ## How to Use
