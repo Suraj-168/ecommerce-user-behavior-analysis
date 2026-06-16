@@ -46,7 +46,7 @@ About 9,400 events from 5,000 users, covering what action the user took (page vi
 ### Traffic Source Analysis
 ![Traffic Source Pivot Table](Images/Traffic%20Pivot%20Table.png)
 ![Traffic Source User Analysis](Images/Traffic%20Source%20User%20Analysis.png)
-![Traffic Source Revenue Analysis](Images/Traffic%20Source%20RevenueAnalysis.png)
+![Traffic Source Revenue Analysis](Images/Traffic%20Source%20Revenue%20Analysis.png)
 ![Contribution to Revenue by Traffic Source](Images/Contribution%20To%20Revenue%20Traffic%20Source%20Wise.png)
 ![Contribution to Purchases by Traffic Source](Images/Contribution%20To%20Purchase%20Traffic%20Source%20Wise.png)
 
